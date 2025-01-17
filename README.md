@@ -10,3 +10,11 @@
 - Desicription of technology and why
 - Description of the process and why
 - Table of contents
+
+Extras: 
+- How the project came about
+- The motivation
+- Limitations
+- Challenges
+- What problem it hopes to solve
+- What the intended use is
